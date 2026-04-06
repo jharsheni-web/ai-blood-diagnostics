@@ -255,6 +255,7 @@ button[kind="primary"] {
 .stFileUploader [data-testid="stFileUploaderDropzoneButton"] button,
 .stFileUploader button {
     background:transparent !important;
+    background-color: transparent !important;
     border:1px solid var(--cyan) !important;
     color:var(--cyan) !important;
     border-radius:8px !important;
