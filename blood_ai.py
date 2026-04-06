@@ -251,7 +251,7 @@ button[kind="primary"] {
 }
 .stTabs [data-baseweb="tab-panel"] { background:transparent !important; padding:1.5rem 0 !important; }
 .stFileUploader { background:var(--card) !important; border:1px dashed var(--border) !important; border-radius:12px !important; }
-.stFileUploader label { color:var(--text2) !important; }
+.stFileUploader label { color:var(--cyan) !important; }
 .stFileUploader [data-testid="stFileUploaderDropzoneButton"] button,
 .stFileUploader button {
     background:transparent !important;
